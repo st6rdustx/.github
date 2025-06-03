@@ -8,3 +8,5 @@ I love cozy, relaxing games and writing code.
 
 - [Discord](https://discord.com/users/293020630608248832) - `st6rdustx`
 - [Email](mailto:hello@diogocastro.me) - `hello <at> diogocastro <dot> me`
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/293020630608248832?showDisplayName=true&hideDecoration=true&hideStatus=true&hideTag=true&hideBadges=true)](https://discord.com/users/293020630608248832)
