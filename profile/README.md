@@ -1,9 +1,9 @@
-# Hiya, I'm Diogo 👋
+# hey, i'm diogo 👋
 
-I'm a silly wannabe programmer from Portugal building random software for problems I didn't know existed. Been coding since 9 and now obsessed with everything Apple.
+i build weird, personal software because it's fun.
 
-## Connect
+- obsessed with clean setups, custom tools, and breaking stuff on purpose
+- mainly into Swift, Vue, APIs, and anything overengineered
+- fan of digital freedom, minimalism, and thoughtful tech
 
-- Website: [diogo.wtf](https://diogo.wtf)
-- Discord: [@st6rdustx](https://discord.com/users/293020630608248832)
-- Email: [hi@diogo.wtf](mailto:hi@diogo.wtf)
+read more about me at [diogo.wtf](https://diogo.wtf)
